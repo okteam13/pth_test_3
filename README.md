@@ -3,6 +3,27 @@
 이미지 생성 | 2021 | GAN | [네이버](https://www.naver.com)
 객체탐지 | 2022 | YOLO | [구글](https://www.google.com)
 
+시각장애인을 위한 웹프로젝트 결과 
+---
+기관 : 알파코
+데이터 : AIhub
+팀원 : 혼자 
+
+![test](https://github.com/okteam13/pth_test_3/assets/130722742/5174c6f9-af5d-4da5-a2e6-4f91592bf18e)
+
+reference : 구글 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
